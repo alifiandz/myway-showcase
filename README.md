@@ -4,6 +4,8 @@
 
 ### Your university goal. A pathway you can act on.
 
+A product project by Alif · 3 engineering examples · 10 runnable tests
+
 **[Try MyWay →](https://mywaypath.com)** · [Explore the engineering](docs/engineering.md) · [Read the build story](docs/build-story.md)
 
 MyWay helps students explore business-related university programmes, compare their options, and turn a shortlist into a personal preparation pathway.
@@ -44,9 +46,9 @@ No package installation, account, API key, or production database is required. T
 
 MyWay has been developed through repeated product, interface, data, and reliability iterations. The work includes deciding what a personal pathway should contain, distinguishing missing evidence from negative evidence, handling account conflicts, reviewing catalogue information, and testing failure cases.
 
-The project uses AI-assisted development. This case study makes the implementation and its limits inspectable rather than presenting every line as manually written or attributing outcomes to unsupported usage numbers.
+Development combines product direction, iterative testing, and AI-assisted implementation. The code examples show concrete decisions and the failure cases they address.
 
-The complete v133 application review passed TypeScript, a production build, and 48 application tests. That is a point-in-time application check, not a claim that every university fact is current or that backup recovery has been rehearsed.
+The v133 application snapshot passed TypeScript, a production build, and 48 application tests. The three examples published here have their own ten-test suite.
 
 ## Technology
 

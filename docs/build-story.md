@@ -22,13 +22,11 @@ MyWay’s focus is the personal pathway. Discovery and comparison help a student
 
 The source and migration history reviewed for this case study records work on account profiles and catalogue access in September 2026, followed by planning sync, private review notes, and atomic review operations in October. The October interface work also introduced a visual admin overview, consistent section navigation, individual university editors, and a dedicated logo-editing section.
 
-These are traceable examples of the project’s development. They are not a claim of total hours spent, an uninterrupted commit streak, or a complete historical timeline.
+These milestones document specific changes in product behavior and the systems supporting it.
 
 ## Attribution and evidence
 
-MyWay is Alif’s product project, developed iteratively with AI-assisted implementation. This repository documents product intent, inspectable logic, tests, and known limitations. It does not claim that all implementation was written without assistance.
-
-For a fuller personal account, future additions should use real evidence: dated sketches, actual earlier screenshots, specific decisions Alif made, feedback received, and measured milestones. No historical screenshots, user metrics, or personal anecdotes have been invented for this package.
+MyWay is Alif’s product project, developed iteratively with AI-assisted implementation. This repository documents product intent, inspectable logic, tests, and known limitations.
 
 ## Publication scope
 
